@@ -1,8 +1,9 @@
 <?php
 /**
- * Plugin Name: Plugin for remove edit or delete user role according to higher level
+ * Plugin Name: Disable edit highter role level
  * Plugin URI: https://github.com/jakubkaderavek/wpj-remove-edit-role-with-higher-level
- * Version: 1.0
+ * Description: Disable remove, edit or delete user role if have higher level
+ * Version: 1.1
  * Author: Jakub Kadeřávek
  * Author URI: https://www.wpjakub.cz/
  */
